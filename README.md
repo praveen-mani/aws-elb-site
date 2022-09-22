@@ -25,7 +25,7 @@ It's using as a sample website and it's might be helpful to someone start studyi
 
 ```sh
 sudo yum install git -y
-git clone https://github.com/yousafkhamza/aws-elb-site.git
+git clone https://github.com/praveen-mani/aws-elb-site.git
 cd aws-elb-site
 ```
 Move any site to Website Docroot
